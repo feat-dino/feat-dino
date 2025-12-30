@@ -3,5 +3,5 @@
 <div id="text" align="center">
 <img src=https://i.pinimg.com/1200x/e9/d0/54/e9d054c0d971cf137cf7bfd8a7010475.jpg width="350" height="350">
 
- [bss](https://github.com/booseoksoon) [ata](https://univrsfactory.atabook.org/https://univrsfactory.atabook.org/)
+ [bss](https://github.com/booseoksoon) [ata](https://univrsfactory.atabook.org/)
 
